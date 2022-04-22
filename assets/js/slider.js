@@ -59,7 +59,7 @@ function setImg3(){
 
 }
 var slider_img4 = document.querySelector('.slider-img-4');
-var House4 = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg'];
+var House4 = ['2.jpg', '1.jpg', '3.jpg', '4.jpg', '5.jpg'];
 var i = 0;
 
 function prev4(){
